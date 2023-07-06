@@ -1,7 +1,7 @@
 <h1 align="center"> Agrupador de Links </h1>
 
 <p align="center">
-Programa de estudos, inspirado no LinkTree.
+Programa de estudos da Rocketseat, inspirado no LinkTree.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Agregador de links para usar como cartão de visitas online.
+Agregador de links para usar como cartão de visitas online desenvolvido de maneira educativa pela RocketSeat.
 
 
 
