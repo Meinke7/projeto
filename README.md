@@ -17,7 +17,7 @@ Programa de estudos da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="projeto Agrupador de Links" src="/github/cover.jpg" width="100%">
+  <img alt="projeto Agrupador de Links" src="/github/cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
